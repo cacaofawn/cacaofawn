@@ -1,5 +1,6 @@
 " 𝐼'𝑣𝑒 𝑛𝑒𝑣𝑒𝑟 𝑔𝑖𝑣𝑒𝑛 𝑚𝑢𝑐ℎ 𝑡ℎ𝑜𝑢𝑔ℎ𝑡 𝑡𝑜 ℎ𝑜𝑤 𝐼 𝑤𝑜𝑢𝑙𝑑 𝑑𝑖𝑒.   
 𝐵𝑢𝑡 𝑑𝑦𝑖𝑛𝑔 𝑖𝑛 𝑡ℎ𝑒 𝑝𝑙𝑎𝑐𝑒 𝑜𝑓 𝑠𝑜𝑚𝑒𝑜𝑛𝑒 𝐼 𝑙𝑜𝑣𝑒... 𝑠𝑒𝑒𝑚𝑠 𝑙𝑖𝑘𝑎 𝑎 𝑔𝑜𝑜𝑑 𝑤𝑎𝑦 𝑡𝑜 𝑔𝑜. "
+![Register - Login](https://github.com/user-attachments/assets/71f2c555-7ace-4415-8e7c-b05d5af8e2e6)
 
 <!--
 **cacaofawn/cacaofawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
