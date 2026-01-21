@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://i.pinimg.com/originals/ef/f6/e7/eff6e75d39e4e4f22e99783c3bea43b6.gif">
 <p align="center">
-  <img src="https://blinkies.cafe/b/blinkiesCafe-WL.gif">
+  <img src="https://blinkies.cafe/b/blinkiesCafe-xJ.gif">
 <!--
 **cacaofawn/cacaofawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
