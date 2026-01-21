@@ -1,5 +1,5 @@
-## I've never given much thought to how I would die. 
-## But dying in the place of someone I love... seems lika a good way to go.
+I've never given much thought to how I would die. 
+But dying in the place of someone I love... seems lika a good way to go.
 
 <!--
 **cacaofawn/cacaofawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
