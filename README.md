@@ -2,8 +2,6 @@
 <p align="center"> 𝐵𝑢𝑡 𝑑𝑦𝑖𝑛𝑔 𝑖𝑛 𝑡ℎ𝑒 𝑝𝑙𝑎𝑐𝑒 𝑜𝑓 𝑠𝑜𝑚𝑒𝑜𝑛𝑒 𝐼 𝑙𝑜𝑣𝑒... 𝑠𝑒𝑒𝑚𝑠 𝑙𝑖𝑘𝑎 𝑎 𝑔𝑜𝑜𝑑 𝑤𝑎𝑦 𝑡𝑜 𝑔𝑜. "
 <p align="center">
 <img src="https://i.pinimg.com/originals/ef/f6/e7/eff6e75d39e4e4f22e99783c3bea43b6.gif">
-<p align="center">
-  <img src="https://blinkies.cafe/b/blinkiesCafe-xJ.gif">
   <p align="center"> sɪɢɴ ᴀᴛᴀ !!
 <!--
 **cacaofawn/cacaofawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
